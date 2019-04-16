@@ -14,6 +14,14 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 2: April 16th 2019
 
+**Time spent**: 1h
+
+**Today's Progress**: same as yesterday, plus thinking whether I should start incorporating the new syntax into the current template, or start from scratch.
+
+**Thoughts:** wanted to spend more than 1 hour today, but I had to send a bunch of emails around our upcoming Gamedev.js Warsaw meetup. I hope to speed up things tomorrow.
+
+## Day 3: April 17th 2019
+
 **Time spent**: TBD
 
 **Today's Progress**: TBD
