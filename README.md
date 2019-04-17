@@ -22,6 +22,14 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 3: April 17th 2019
 
+**Time spent**: 1h 30min
+
+**Today's Progress**: took the time to research some of the other templates out there, tried upgrading the EPT's source code 1:1, but decided it needs to be rewritten from scratch.
+
+**Thoughts:** I have no idea what I'm doing.
+
+## Day 4: April 18th 2019
+
 **Time spent**: TBD
 
 **Today's Progress**: TBD
