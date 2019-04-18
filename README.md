@@ -30,6 +30,14 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 4: April 18th 2019
 
+**Time spent**: 2h
+
+**Today's Progress**: prepared and announced Piotr as the speaker for the [upcoming Gamedev.js Warsaw meetup](https://gamedevjs.pl/wydarzenia/warszawa-meetup-11). Also, updated the [js13kGames website](https://2019.js13kgames.com/) by moving 2018 content to its subdomain and the main page reflecting upcoming 2019 one.
+
+**Thoughts:** I do hope I can count updating .yaml files on one website and fiddling with .php and .html ones on another.
+
+## Day 5: April 19th 2019
+
 **Time spent**: TBD
 
 **Today's Progress**: TBD
