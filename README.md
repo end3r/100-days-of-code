@@ -38,6 +38,14 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 5: April 19th 2019
 
+**Time spent**: 1h
+
+**Today's Progress**: did some client work, tried fixing a bug, but failed miserably. Will try next week again.
+
+**Thoughts:** it's probably a typo, or not even a game's fault. Needs hours to find, probably 30 seconds to fix.
+
+## Day 6: April 22nd 2019
+
 **Time spent**: TBD
 
 **Today's Progress**: TBD
