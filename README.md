@@ -44,7 +44,15 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Thoughts:** it's probably a typo, or not even a game's fault. Needs hours to find, probably 30 seconds to fix.
 
-## Day 6: April 22nd 2019
+## Day 6: May 20th 2019
+
+**Time spent**: 2h
+
+**Today's Progress**: Started rewriting the Enclave Phaser Template to Phaser 3: changing States to Scenes and moving the contents accordingly.
+
+**Thoughts:** I had a **month-long** break after just the first week. National holidays, preparations for the Gamedev.js Warsaw meetup, more holidays, preparations for the js13kGames competition, catching up on a whole lot of emails, etc. At least I can cheat and don't need to start from day one again...
+
+## Day 7: May 21st 2019
 
 **Time spent**: TBD
 
