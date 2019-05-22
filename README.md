@@ -8,7 +8,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 1h
 
-**Today's Progress**: started with the Enclave Phaser Template, looked at a few Phaser 3 boilerplates.
+**Today's Progress**: started with the [Enclave Phaser Template](https://github.com/EnclaveGames/Enclave-Phaser-Template), looked at a few Phaser 3 boilerplates.
 
 **Thoughts:** well, right now I'm at the "I have no idea what I'm doing" stage with Phaser 3 as I haven't checked a single tutorial about it (yet), so "working on EPT" will be equal to "learning Phaser 3". It will take some time before I'll be able to publish something, but hey, at least I've finally started!
 
@@ -18,13 +18,13 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Today's Progress**: same as yesterday, plus thinking whether I should start incorporating the new syntax into the current template, or start from scratch.
 
-**Thoughts:** wanted to spend more than 1 hour today, but I had to send a bunch of emails around our upcoming Gamedev.js Warsaw meetup. I hope to speed up things tomorrow.
+**Thoughts:** wanted to spend more than 1 hour today, but I had to send a bunch of emails around our upcoming [Gamedev.js Warsaw](https://gamedevjs.pl/) meetup. I hope to speed up things tomorrow.
 
 ## Day 3: April 17th 2019
 
 **Time spent**: 1h 30min
 
-**Today's Progress**: took the time to research some of the other templates out there, tried upgrading the EPT's source code 1:1, but decided it needs to be rewritten from scratch.
+**Today's Progress**: took the time to research some of the other templates out there, tried upgrading the [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template)'s source code 1:1, but decided it needs to be rewritten from scratch.
 
 **Thoughts:** I have no idea what I'm doing.
 
@@ -50,7 +50,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Today's Progress**: Started rewriting the [Enclave Phaser Template](https://github.com/EnclaveGames/Enclave-Phaser-Template) to Phaser 3: changing States to Scenes and moving the contents accordingly.
 
-**Thoughts:** I had a **month-long** break after just the first week. National holidays, preparations for the Gamedev.js Warsaw meetup, more holidays, preparations for the js13kGames competition, catching up on a whole lot of emails, etc. At least I can cheat and don't need to start from day one again...
+**Thoughts:** I had a **month-long** break after just the first week. National holidays, preparations for the [Gamedev.js Warsaw](https://gamedevjs.pl/) meetup, more holidays, preparations for the [js13kGames](https://js13kgames.com/) competition, catching up on a whole lot of emails, etc. At least I can cheat and don't need to start from day one again...
 
 ## Day 7: May 21st 2019
 
