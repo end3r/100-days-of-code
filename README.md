@@ -54,6 +54,14 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 7: May 21st 2019
 
+**Time spent**: 4h
+
+**Today's Progress**: Rewriting EPT's buttons logic into the new syntax where there are no buttons, only images which you can set as interactive and define specific frames on various pointer events. Scrapped everything and created my own Button class to make them work almost exactly the same as in Phaser 2.
+
+**Thoughts:** There are no buttons in Phaser 3! :O
+
+## Day 8: May 22nd 2019
+
 **Time spent**: TBD
 
 **Today's Progress**: TBD
