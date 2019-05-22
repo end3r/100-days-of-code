@@ -48,7 +48,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 2h
 
-**Today's Progress**: Started rewriting the Enclave Phaser Template to Phaser 3: changing States to Scenes and moving the contents accordingly.
+**Today's Progress**: Started rewriting the [Enclave Phaser Template](https://github.com/EnclaveGames/Enclave-Phaser-Template) to Phaser 3: changing States to Scenes and moving the contents accordingly.
 
 **Thoughts:** I had a **month-long** break after just the first week. National holidays, preparations for the Gamedev.js Warsaw meetup, more holidays, preparations for the js13kGames competition, catching up on a whole lot of emails, etc. At least I can cheat and don't need to start from day one again...
 
@@ -56,7 +56,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 4h
 
-**Today's Progress**: Rewriting EPT's buttons logic into the new syntax where there are no buttons, only images which you can set as interactive and define specific frames on various pointer events. Scrapped everything and created my own Button class to make them work almost exactly the same as in Phaser 2.
+**Today's Progress**: Rewriting [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template)'s buttons logic into the new syntax where there are no buttons, only images which you can set as interactive and define specific frames on various pointer events. Scrapped everything and created my own Button class to make them work almost exactly the same as in Phaser 2.
 
 **Thoughts:** There are no buttons in Phaser 3! :O
 
@@ -64,7 +64,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 5h
 
-**Today's Progress**: EPT: bugfixing issues with buttons, then some solid work on rewriting Storage, Language, Sounds, and creating the settings page.
+**Today's Progress**: [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template): bugfixing issues with buttons, then some solid work on rewriting Storage, Language, Sounds, and creating the settings page.
 
 **Thoughts:** Still a lot of work, but I'm happy I can focus on a single project and simply dive into coding. I really missed that.
 
