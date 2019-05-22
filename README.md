@@ -62,6 +62,14 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 8: May 22nd 2019
 
+**Time spent**: 5h
+
+**Today's Progress**: EPT: bugfixing issues with buttons, then some solid work on rewriting Storage, Language, Sounds, and creating the settings page.
+
+**Thoughts:** Still a lot of work, but I'm happy I can focus on a single project and simply dive into coding. I really missed that.
+
+## Day 9: May 23rd 2019
+
 **Time spent**: TBD
 
 **Today's Progress**: TBD
