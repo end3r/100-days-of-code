@@ -64,11 +64,35 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 5h
 
-**Today's Progress**: [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template): bugfixing issues with buttons, then some solid work on rewriting Storage, Language, Sounds, and creating the settings page.
+**Today's Progress**: [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template): bugfixing issues with buttons, then some solid work on rewriting Storage, Language, Sounds, and creating the Settings page.
 
 **Thoughts:** Still a lot of work, but I'm happy I can focus on a single project and simply dive into coding. I really missed that.
 
 ## Day 9: May 23rd 2019
+
+**Time spent**: 1h
+
+**Today's Progress**: EPT, updating the contents of the Settings page.
+
+**Thoughts:** Not much, as today's the day of the [Gamedev.js Warsaw #12](https://gamedevjs.pl/wydarzenia/warszawa-meetup-12) meetup.
+
+## Day 10: May 24th 2019
+
+**Time spent**: 1h
+
+**Today's Progress**: EPT, tidying up the utility functions.
+
+**Thoughts:** Not much again, because Friday.
+
+## Day 11: May 27th 2019
+
+**Time spent**: 1h
+
+**Today's Progress**: I wasted one hour trying to install some wildcard Let's Encrypt certs on the server.
+
+**Thoughts:** I feel super dumb.
+
+## Day 12: May 28th 2019
 
 **Time spent**: TBD
 
