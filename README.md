@@ -72,7 +72,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 1h
 
-**Today's Progress**: EPT, updating the contents of the Settings page.
+**Today's Progress**: [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template), updating the contents of the Settings page.
 
 **Thoughts:** Not much, as today's the day of the [Gamedev.js Warsaw #12](https://gamedevjs.pl/wydarzenia/warszawa-meetup-12) meetup.
 
@@ -80,7 +80,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 1h
 
-**Today's Progress**: EPT, tidying up the utility functions.
+**Today's Progress**: [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template), tidying up the utility functions.
 
 **Thoughts:** Not much again, because Friday.
 
@@ -96,7 +96,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 1h
 
-**Today's Progress**: EPT: tinkering with the audio functions.
+**Today's Progress**: [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template): tinkering with the audio functions.
 
 **Thoughts:** Those definitely need some rewriting.
 
@@ -104,7 +104,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 1h
 
-**Today's Progress**: EPT: changed the audio functions so they work with sound and music independently, but using one function for both.
+**Today's Progress**: [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template): changed the audio functions so they work with sound and music independently, but using one function for both.
 
 **Thoughts:** taken from Flood Escape where you can turn the sounds/music on/off in the settings while in previous games it was a single button for both on the main menu screen.
 
@@ -112,7 +112,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 1h
 
-**Today's Progress**: EPT: updating Settings and Credits.
+**Today's Progress**: [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template): updating Settings and Credits.
 
 **Thoughts:** It's starting to look like something usable again.
 
@@ -120,7 +120,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 1h
 
-**Today's Progress**: EPT: (re)adding tweens to all the buttons, to make them look cool again.
+**Today's Progress**: [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template): (re)adding tweens to all the buttons, to make them look cool again.
 
 **Thoughts:** It needed a bit of research on the new syntax, but it's not that different from v2.
 
