@@ -94,6 +94,38 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 12: May 28th 2019
 
+**Time spent**: 1h
+
+**Today's Progress**: EPT: tinkering with the audio functions.
+
+**Thoughts:** Those definitely need some rewriting.
+
+## Day 13: May 29th 2019
+
+**Time spent**: 1h
+
+**Today's Progress**: EPT: changed the audio functions so they work with sound and music independently, but using one function for both.
+
+**Thoughts:** taken from Flood Escape where you can turn the sounds/music on/off in the settings while in previous games it was a single button for both on the main menu screen.
+
+## Day 14: May 30th 2019
+
+**Time spent**: 1h
+
+**Today's Progress**: EPT: updating Settings and Credits.
+
+**Thoughts:** It's starting to look like something usable again.
+
+## Day 15: May 31st 2019
+
+**Time spent**: 1h
+
+**Today's Progress**: EPT: (re)adding tweens to all the buttons, to make them look cool again.
+
+**Thoughts:** It needed a bit of research on the new syntax, but it's not that different from v2.
+
+## Day 16: June 3rd 2019
+
 **Time spent**: TBD
 
 **Today's Progress**: TBD
