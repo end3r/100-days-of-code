@@ -126,6 +126,46 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 16: June 3rd 2019
 
+**Time spent**: 1h
+
+**Today's Progress**: Started working on our Meditations project - stumbled upon trivial stuff like how do you attach a sprite to the cursor.
+
+**Thoughts:** We had something, and now I decided to shift from Phaser 2 to Phaser 3, and so our little project will be a learning curve. Wanted to complete it when I finish EPT, but the time was running out and Meditations had to be finished as soon as possible.
+
+## Day 17: June 4th 2019
+
+**Time spent**: 3h
+
+**Today's Progress**: Meditations: today I learned how to properly initialize a pool of objects.
+
+**Thoughts:** It's a little bit different than in Phaser 2. Plus last time I did it in Phaser 2 was two years ago.
+
+## Day 18: June 5th 2019
+
+**Time spent**: 12h
+
+**Today's Progress**: Meditations: the whole demo was created today, and a bunch of bugs fixed.
+
+**Thoughts:** Yup, 12 hours - would be three times shorter if I hadn't research every single line I wanted to write. It was a long and exhausting day, but nonetheless productive.
+
+## Day 19: June 6th 2019
+
+**Time spent**: 3h
+
+**Today's Progress**: Meditations: base64-ing all the images, and packing everything into a single html file. Of course I had to have a bunch of bugs in the process.
+
+**Thoughts:** Was expecting this will take 30 minutes tops, but at least it was finished today.
+
+## Day 20: June 7th 2019
+
+**Time spent**: TBD
+
+**Today's Progress**: TBD
+
+**Thoughts:** TBD
+
+## Day 21: June 10th 2019
+
 **Time spent**: TBD
 
 **Today's Progress**: TBD
