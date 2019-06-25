@@ -158,13 +158,13 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 20: June 7th 2019
 
-**Time spent**: TBD
+**Time spent**: 1h
 
-**Today's Progress**: TBD
+**Today's Progress**: Did some API adjustments for a client that owns a few of our games.
 
-**Thoughts:** TBD
+**Thoughts:** Nothing fancy, but the work that needs to be done.
 
-## Day 21: June 10th 2019
+## Day 21: July 1st 2019
 
 **Time spent**: TBD
 
