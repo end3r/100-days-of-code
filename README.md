@@ -164,7 +164,15 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Thoughts:** Nothing fancy, but the work that needs to be done.
 
-## Day 21: July 1st 2019
+## Day 21: July 15th 2019
+
+**Time spent**: 3h
+
+**Today's Progress**: EPT: making gameplay of clicking on the dummy button work again in Game.js.
+
+**Thoughts:** Another "short break" that took a month, eh. There's too much non-coding work to be done around js13kGames, preparing talks for conferences, and such.
+
+## Day 22: July 16th 2019
 
 **Time spent**: TBD
 
