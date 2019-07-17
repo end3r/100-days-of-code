@@ -182,6 +182,14 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 23: July 17th 2019
 
+**Time spent**: 5h
+
+**Today's Progress**: [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template): settings and credits pages, adding webfonts, keyboard controls and page with all the shortcuts, localization in two languages.
+
+**Thoughts:** Now I'm really feeling that "it's almost ready" feel. Only minor fixes, some cleaning, and it should be ready by the end of this week. Yay!
+
+## Day 24: July 18th 2019
+
 **Time spent**: TBD
 
 **Today's Progress**: TBD
