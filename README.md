@@ -190,6 +190,22 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 24: July 18th 2019
 
+**Time spent**: 1h
+
+**Today's Progress**: [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template): added Web Monetization and did some cleaning in the source code.
+
+**Thoughts:** Still some finishing touches needed, but it looks good already.
+
+## Day 25: July 19th 2019
+
+**Time spent**: 1h
+
+**Today's Progress**: [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template): removing comments, optimizing functions.
+
+**Thoughts:** It's almost ready.
+
+## Day 26: July 22th 2019
+
 **Time spent**: TBD
 
 **Today's Progress**: TBD
