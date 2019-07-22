@@ -204,7 +204,15 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Thoughts:** It's almost ready.
 
-## Day 26: July 22th 2019
+## Day 26: July 22nd 2019
+
+**Time spent**: 2h
+
+**Today's Progress**: [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template): final tweaks and updates, and that's it, today's the day: [Enclave Phaser Template updated to Phaser 3](https://dev.end3r.com/2019/07/enclave-phaser-template-updated-to-phaser-3/)!
+
+**Thoughts:** Yay! Now onto the actual games built with it.
+
+## Day 27: July 23rd 2019
 
 **Time spent**: TBD
 
