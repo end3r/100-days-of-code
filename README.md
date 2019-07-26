@@ -214,6 +214,38 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 27: July 23rd 2019
 
+**Time spent**: 3h
+
+**Today's Progress**: Hex Counter: started with EPT and moved from there - I already have a mockup of main menu and settings pages.
+
+**Thoughts:** Although I'm super happy I'm continuing to code, I feel all the other stuff (especially js13kGames) is getting more and more behind. I wonder if I should stop for a bit and catch up on all those unanswered emails and tasks that are already past the deadline...
+
+## Day 28: July 24th 2019
+
+**Time spent**: 1h
+
+**Today's Progress**: js13kGames: refreshed WebXR's category landing page.
+
+**Thoughts:** Hex Counter had to wait.
+
+## Day 29: July 25th 2019
+
+**Time spent**: 4h
+
+**Today's Progress**: js13kGames: created Web Monetization's (new category) landing page.
+
+**Thoughts:** ASAP.
+
+## Day 30: July 26th 2019
+
+**Time spent**: 4h
+
+**Today's Progress**: Hex Counter: created the army selection screen.
+
+**Thoughts:** Spent more time than I should because of some weird issues when dynamically creating the actions on clicking the tiles.
+
+## Day 31: July 29th 2019
+
 **Time spent**: TBD
 
 **Today's Progress**: TBD
