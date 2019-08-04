@@ -246,6 +246,46 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 31: July 29th 2019
 
+**Time spent**: 1h
+
+**Today's Progress**: Hex Counter: started working on the gameplay screen.
+
+**Thoughts:** Still lots to do.
+
+## Day 32: July 30th 2019
+
+**Time spent**: 4h
+
+**Today's Progress**: Hex Counter: progress on the gameplay screen - mostly army stats, buttons and actions.
+
+**Thoughts:** Slow progress.
+
+## Day 33: July 31th 2019
+
+**Time spent**: 4h
+
+**Today's Progress**: Hex Counter: clicking and making something do stuff.
+
+**Thoughts:** Ugh, why is this taking so many hours.
+
+## Day 34: August 1st 2019
+
+**Time spent**: 3h
+
+**Today's Progress**: Hex Counter: trying to implement dragging the list of tiles.
+
+**Thoughts:** My own solution didn't work, then a plugin I tried didn't work either.
+
+## Day 35: August 2nd 2019
+
+**Time spent**: 5h
+
+**Today's Progress**: Hex Counter: dragging reimplemented from scratch (and working), fixing fonts and texts.
+
+**Thoughts:** Phew, at least that's kind of covered.
+
+## Day 36: August 5th 2019
+
 **Time spent**: TBD
 
 **Today's Progress**: TBD
