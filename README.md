@@ -286,6 +286,14 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 36: August 5th 2019
 
+**Time spent**: 1h
+
+**Today's Progress**: [js13kGames](https://js13kgames.com/): [Web Monetization category](https://js13kgames.com/webmonetization) was [announced](https://medium.com/js13kgames/web-monetization-new-category-this-year-e87bb1c998cd).
+
+**Thoughts:** No actual gamedev work, but I did some HTML for the landing page, so let's say it still counts as "coding".
+
+## Day 37: August 6th 2019
+
 **Time spent**: TBD
 
 **Today's Progress**: TBD
