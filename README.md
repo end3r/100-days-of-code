@@ -358,8 +358,17 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 45: September 10th 2019
 
+**Time spent**: 2h
+
+**Today's Progress**: NSHex Counter: adding music and sounds.
+
+**Thoughts:** Seems like it's 99% done, still a few small bugs to fix though.
+
+## Day 46: September 11th 2019
+
 **Time spent**: TBD
 
 **Today's Progress**: TBD
 
 **Thoughts:** TBD
+
