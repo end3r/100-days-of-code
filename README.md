@@ -216,7 +216,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 3h
 
-**Today's Progress**: NSHex Counter: started with EPT and moved from there - I already have a mockup of main menu and settings pages.
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): started with EPT and moved from there - I already have a mockup of main menu and settings pages.
 
 **Thoughts:** Although I'm super happy I'm continuing to code, I feel all the other stuff (especially js13kGames) is getting more and more behind. I wonder if I should stop for a bit and catch up on all those unanswered emails and tasks that are already past the deadline...
 
@@ -226,7 +226,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Today's Progress**: js13kGames: refreshed WebXR's category landing page.
 
-**Thoughts:** NSHex Counter had to wait.
+**Thoughts:** [NSHex Counter](https://nshex.enclavegames.com/counter/) had to wait.
 
 ## Day 29: July 25th 2019
 
@@ -240,7 +240,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 4h
 
-**Today's Progress**: NSHex Counter: created the army selection screen.
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): created the army selection screen.
 
 **Thoughts:** Spent more time than I should because of some weird issues when dynamically creating the actions on clicking the tiles.
 
@@ -248,7 +248,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 1h
 
-**Today's Progress**: NSHex Counter: started working on the gameplay screen.
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): started working on the gameplay screen.
 
 **Thoughts:** Still lots to do.
 
@@ -256,7 +256,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 4h
 
-**Today's Progress**: NSHex Counter: progress on the gameplay screen - mostly army stats, buttons and actions.
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): progress on the gameplay screen - mostly army stats, buttons and actions.
 
 **Thoughts:** Slow progress.
 
@@ -264,7 +264,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 4h
 
-**Today's Progress**: NSHex Counter: clicking and making something do stuff.
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): clicking and making something do stuff.
 
 **Thoughts:** Ugh, why is this taking so many hours.
 
@@ -272,7 +272,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 3h
 
-**Today's Progress**: NSHex Counter: trying to implement dragging the list of tiles.
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): trying to implement dragging the list of tiles.
 
 **Thoughts:** My own solution didn't work, then a plugin I tried didn't work either.
 
@@ -280,7 +280,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 5h
 
-**Today's Progress**: NSHex Counter: dragging reimplemented from scratch (and working), fixing fonts and texts.
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): dragging reimplemented from scratch (and working), fixing fonts and texts.
 
 **Thoughts:** Phew, at least that's kind of covered.
 
@@ -296,7 +296,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 5h
 
-**Today's Progress**: NSHex Counter: recalculating percentages of the armies, fixing main menu buttons and fonts, images and armies, and working on the Settings screen.
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): recalculating percentages of the armies, fixing main menu buttons and fonts, images and armies, and working on the Settings screen.
 
 **Thoughts:** Well... js13kGames came in and destroyed all the coding plans... again. I had to focus on the preparations, and were able to return to NSHex Counter after almost a month.
 
@@ -304,7 +304,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 2h
 
-**Today's Progress**: NSHex Counter: minifying images, fixing NaNs, finishing the task to recalculate percentages.
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): minifying images, fixing NaNs, finishing the task to recalculate percentages.
 
 **Thoughts:** Happy to be back at coding.
 
@@ -312,7 +312,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 3h
 
-**Today's Progress**: NSHex Counter: fixed chosing the army screen, moved Copyright to its subpage, added Sand Runners army.
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): fixed chosing the army screen, moved Copyright to its subpage, added Sand Runners army.
 
 **Thoughts:** The Sand Runners army PDF manual was released, so we cut the images from it and added to the list of armies already.
 
@@ -320,7 +320,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 1h
 
-**Today's Progress**: NSHex Counter: added Polish language.
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): added Polish language.
 
 **Thoughts:** Juggling js13k and this.
 
@@ -328,7 +328,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 4h
 
-**Today's Progress**: NSHex Counter: fixing HQ switch animations, destroying the inactive Start button, increasing the size of the small buttons, adding the loading animation when trying to access Settings too early before all the extra assets are loaded.
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): fixing HQ switch animations, destroying the inactive Start button, increasing the size of the small buttons, adding the loading animation when trying to access Settings too early before all the extra assets are loaded.
 
 **Thoughts:** Seems like we'll have Progressive Loading - worth writing an article about it.
 
@@ -336,7 +336,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 1h
 
-**Today's Progress**: NSHex Counter: adding Polish version of the Copyright page, animating Credits.
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): adding Polish version of the Copyright page, animating Credits.
 
 **Thoughts:** Slowly moving forward.
 
@@ -344,7 +344,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 7h
 
-**Today's Progress**: NSHex Counter: fixing the main issue left - properly swiping/dragging the tiles. Also, Support Us info ends up on its own subpage too.
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): fixing the main issue left - properly swiping/dragging the tiles. Also, Support Us info ends up on its own subpage too.
 
 **Thoughts:** Arrrgh, swipe/drag, my nemesis.
 
@@ -352,7 +352,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 8h
 
-**Today's Progress**: NSHex Counter: some swiping, some dragging, and trying to make it work somehow. Also, fixing HQ switch animations.
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): some swiping, some dragging, and trying to make it work somehow. Also, fixing HQ switch animations.
 
 **Thoughts:** Pushing to the limit.
 
@@ -360,11 +360,27 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 2h
 
-**Today's Progress**: NSHex Counter: adding music and sounds.
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): adding music and sounds.
 
 **Thoughts:** Seems like it's 99% done, still a few small bugs to fix though.
 
 ## Day 46: September 11th 2019
+
+**Time spent**: 1h
+
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): finishing touches, fixing remaining bugs.
+
+**Thoughts:** Almost ready.
+
+## Day 47: September 12th 2019
+
+**Time spent**: 1h
+
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): cleaning up the source code, and publishing a [release blog post](https://dev.end3r.com/2019/09/nshex-counter-an-app-for-counting-neuroshima-hex-tiles/).
+
+**Thoughts:** Finished!
+
+## Day 48: September 13th 2019
 
 **Time spent**: TBD
 
