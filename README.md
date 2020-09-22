@@ -1,6 +1,6 @@
 # My 100 Days of Code
 
-I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm gonna bend the rules a bit to my needs - you can read the [initial blog post](https://dev.end3r.com/2019/04/my-100-days-of-code/) about my plans to learn about the details.
+I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm gonna bend the rules a bit to my needs - you can read the [initial blog post](https://end3r.com/blog/2019/04/my-100-days-of-code/) about my plans to learn about the details.
 
 ![My 100 Days of Code - banner](banner.jpg)
 
@@ -128,7 +128,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 1h
 
-**Today's Progress**: Started working on our [Meditations](https://dev.end3r.com/2019/06/meditations-games-june-30th/) project - stumbled upon trivial stuff like how do you attach a sprite to the cursor.
+**Today's Progress**: Started working on our [Meditations](https://end3r.com/blog/2019/06/meditations-games-june-30th/) project - stumbled upon trivial stuff like how do you attach a sprite to the cursor.
 
 **Thoughts:** We had something, and now I decided to shift from Phaser 2 to Phaser 3, and so our little project will be a learning curve. Wanted to complete it when I finish EPT, but the time was running out and Meditations had to be finished as soon as possible.
 
@@ -136,7 +136,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 3h
 
-**Today's Progress**: [Meditations](https://dev.end3r.com/2019/06/meditations-games-june-30th/): today I learned how to properly initialize a pool of objects.
+**Today's Progress**: [Meditations](https://end3r.com/blog/2019/06/meditations-games-june-30th/): today I learned how to properly initialize a pool of objects.
 
 **Thoughts:** It's a little bit different than in Phaser 2. Plus last time I did it in Phaser 2 was two years ago.
 
@@ -144,7 +144,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 12h
 
-**Today's Progress**: [Meditations](https://dev.end3r.com/2019/06/meditations-games-june-30th/): the whole demo was created today, and a bunch of bugs fixed.
+**Today's Progress**: [Meditations](https://end3r.com/blog/2019/06/meditations-games-june-30th/): the whole demo was created today, and a bunch of bugs fixed.
 
 **Thoughts:** Yup, 12 hours - would be three times shorter if I hadn't research every single line I wanted to write. It was a long and exhausting day, but nonetheless productive.
 
@@ -152,7 +152,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 3h
 
-**Today's Progress**: [Meditations](https://dev.end3r.com/2019/06/meditations-games-june-30th/): base64-ing all the images, and packing everything into a single html file. Of course I had to have a bunch of bugs in the process.
+**Today's Progress**: [Meditations](https://end3r.com/blog/2019/06/meditations-games-june-30th/): base64-ing all the images, and packing everything into a single html file. Of course I had to have a bunch of bugs in the process.
 
 **Thoughts:** Was expecting this will take 30 minutes tops, but at least it was finished today.
 
@@ -208,7 +208,7 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 2h
 
-**Today's Progress**: [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template): final tweaks and updates, and that's it, today's the day: [Enclave Phaser Template updated to Phaser 3](https://dev.end3r.com/2019/07/enclave-phaser-template-updated-to-phaser-3/)!
+**Today's Progress**: [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template): final tweaks and updates, and that's it, today's the day: [Enclave Phaser Template updated to Phaser 3](https://end3r.com/blog/2019/07/enclave-phaser-template-updated-to-phaser-3/)!
 
 **Thoughts:** Yay! Now onto the actual games built with it.
 
@@ -376,15 +376,22 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 **Time spent**: 1h
 
-**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): cleaning up the source code, and publishing a [release blog post](https://dev.end3r.com/2019/09/nshex-counter-an-app-for-counting-neuroshima-hex-tiles/).
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): cleaning up the source code, and publishing a [release blog post](https://end3r.com/blog/2019/09/nshex-counter-an-app-for-counting-neuroshima-hex-tiles/).
 
 **Thoughts:** Finished!
 
-## Day 48: September 13th 2019
+## Day 48: September 21st 2020
+
+**Time spent**: 1h
+
+**Today's Progress**: [NSHex Counter](https://nshex.enclavegames.com/counter/): [updated the app](https://enclavegames.com/blog/nshex-counter-gets-troglodytes/) with the newest army released by Portal Games at the beginning of this month - Troglodytes.
+
+**Thoughts:** Don't check the year, don't check the year...
+
+## Day 49: September 22nd 2020
 
 **Time spent**: TBD
 
 **Today's Progress**: TBD
 
 **Thoughts:** TBD
-
