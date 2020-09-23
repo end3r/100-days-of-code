@@ -390,6 +390,22 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 49: September 22nd 2020
 
+**Time spent**: 3h
+
+**Today's Progress**: [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template): Updating Phaser and (re)adding Analytics, adding Phaser-specific **Progressive Loading** feature.
+
+**Thoughts:** Updates before I can start some solid work.
+
+## Day 50: September 23rd 2020
+
+**Time spent**: 2h
+
+**Today's Progress**: **Hat Tricks**: Started working on the game (again), taken [EPT](https://github.com/EnclaveGames/Enclave-Phaser-Template) as the base.
+
+**Thoughts:** I hope this can be coded and released as quickly as possible.
+
+## Day 51: September 24th 2020
+
 **Time spent**: TBD
 
 **Today's Progress**: TBD
