@@ -406,6 +406,23 @@ I've started the **#100DaysOfCode** challenge on April 15th 2019, although I'm g
 
 ## Day 51: September 24th 2020
 
+**Time spent**: 1h
+
+**Today's Progress**: **Hat Tricks**: Working on the main menu UI.
+
+**Thoughts:** The easiest part - adding background, labels, buttons, etc.
+
+## Day 52: September 25th 2020
+
+**Time spent**: 4h
+
+**Today's Progress**: **Hat Tricks**: Trying to copy the carousel from Flood Escape (Phaser 2) to this project (Phaser 3), modifying stuff on the fly. No luck yet.
+
+**Thoughts:** Oh, the joyful fun of trying to code something theoretically simple, but you can't make it work for hours, how I missed this!
+
+
+## Day 53: September 28th 2020
+
 **Time spent**: TBD
 
 **Today's Progress**: TBD
